@@ -1,6 +1,18 @@
 body {
     background-color: beige;
     font-family: Verdana, Tahoma, sans-serif;
-    text-align: center;
     background-image:url(../img/restaurant.png);
+}
+
+h1 {
+    text-align: center;
+    color: #ff4d4d;
+}
+
+.recipes-box {
+    margin-top: 20px;
+    margin-left: 800px;
+    width: 300px;
+    border:#ff4d4d solid 2px;
+    padding: auto;
 }
